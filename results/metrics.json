@@ -1,0 +1,13 @@
+{
+  "WARNING": "Metrics are on provisional AI-assisted labels. Human review is required before submission claims.",
+  "n_test": 70,
+  "majority_accuracy": 0.1,
+  "majority_macro_f1": 0.018,
+  "keyword_accuracy": 0.743,
+  "keyword_macro_f1": 0.742,
+  "agent_accuracy": 0.986,
+  "agent_macro_f1": 0.986,
+  "auto_handle_coverage": 0.129,
+  "auto_handle_precision": 1.0,
+  "mean_proxy_reply_score": 4.036
+}
