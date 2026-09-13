@@ -1,0 +1,14 @@
+intent,reply
+battery_charging,Battery life matters. Please check Battery usage in Settings and tell us your iOS version and which apps are using the most power.
+battery_charging,"If the device is unusually warm, disconnect it from power and let it cool. Tell us the iPhone model and iOS version so we can guide the next step."
+ios_update_performance,"We can help with the behavior after the update. Restart the iPhone, confirm the exact iOS version, and tell us which apps or actions trigger the issue."
+ios_update_performance,"Please share the iPhone model, iOS version, and any troubleshooting already tried. We’ll narrow this down from there."
+network_connectivity,"Let’s check the connection. Toggle Airplane Mode, restart the iPhone, and tell us whether the issue affects Wi‑Fi, cellular, Bluetooth, or all three."
+network_connectivity,"Please confirm your iPhone model, iOS version, and whether the connection works on another network or accessory."
+apple_id_account,"For account security, don’t post personal details publicly. Use Apple’s account recovery flow or continue in a private support channel so identity can be verified safely."
+app_store_purchases,Billing and purchase issues need account-specific review. Please don’t share payment details publicly; continue through a private support channel with the order or charge details.
+icloud_backup_storage,"Please avoid deleting anything else for now. Tell us whether the content is visible on iCloud.com or another signed-in device, and the last successful backup date if known."
+device_hardware_damage,"This may need hands-on inspection. If the device is hot, swollen, wet, or physically damaged, stop using/charging it and arrange service with Apple or an authorized provider."
+audio_calls_media,"Let’s isolate whether this is app-specific or system-wide. Restart the device, test another audio source/call, and share your iPhone and iOS version."
+keyboard_messaging,"Please restart the iPhone and confirm the iOS version. If it’s a keyboard/autocorrect issue, also tell us whether it happens in every app or only one."
+general_other,"We’d like to help. Tell us what you were trying to do, what happened instead, your iPhone model/iOS version, and any steps you already tried."
